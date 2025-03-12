@@ -28,8 +28,6 @@ A Python-based project for analyzing NFL injury data and trends.
    
    # Install dependencies (choose one method)
    pip install -r requirements.txt  # Using requirements.txt
-   # OR
-   pip install -e .  # Using pyproject.toml (recommended for development)
    ```
 
 ## Development Workflow
