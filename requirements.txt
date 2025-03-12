@@ -19,4 +19,4 @@ python-dotenv
 # Database
 pg8000
 sqlalchemy
-"cloud-sql-python-connector[pg8000]"
+cloud-sql-python-connector[pg8000]
