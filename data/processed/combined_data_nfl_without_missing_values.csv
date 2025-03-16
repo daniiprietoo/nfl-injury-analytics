@@ -7,7 +7,7 @@ PlayerKey,GameID,PlayKey,BodyPart,Surface,RosterPosition,PlayerDay,PlayerGame,St
 41145,41145-2,41145-2-60,Knee,Natural,Safety,11,2,Open,Natural,89.0,Sunny,Pass,60,SS,DB,1
 46014,46014-10,46014-10-22,Ankle,Synthetic,Running Back,71,10,Closed,Synthetic,60.0,Sunny,Rush,22,RB,RB,42
 44860,44860-5,44860-5-52,Knee,Natural,Linebacker,29,5,Open,Natural,67.0,Cloudy,Rush,52,OLB,LB,7
-44806,44806-7,44806-7-61,Knee,Synthetic,Linebacker,43,7,Indoors,Synthetic,,Indoor,Rush,61,ILB,LB,1
+44806,44806-7,44806-7-61,Knee,Synthetic,Linebacker,43,7,Indoors,Synthetic,-999.0,Indoor,Rush,61,ILB,LB,1
 45962,45962-8,45962-8-40,Ankle,Synthetic,Wide Receiver,54,8,Open,Synthetic,68.0,Clear,Pass,40,WR,WR,7
 46331,46331-4,46331-4-44,Ankle,Synthetic,Safety,22,4,Open,Synthetic,61.0,Sunny,Pass,44,SS,DB,42
 36621,36621-13,36621-13-58,Foot,Natural,Offensive Lineman,92,13,Closed,Natural,79.0,,Rush,58,T,OL,42
@@ -15,17 +15,17 @@ PlayerKey,GameID,PlayKey,BodyPart,Surface,RosterPosition,PlayerDay,PlayerGame,St
 43505,43505-2,43505-2-49,Foot,Natural,Offensive Lineman,11,2,Open,Natural,68.0,Cloudy,Pass,49,C,OL,42
 41094,41094-1,41094-1-55,Knee,Natural,Safety,1,1,Open,Natural,72.0,Sunny,Pass,55,SS,DB,42
 40474,40474-1,40474-1-8,Knee,Synthetic,Linebacker,1,1,Indoors,Synthetic,70.0,Indoor,Kickoff,8,OLB,LB,1
-39656,39656-2,39656-2-38,Knee,Synthetic,Wide Receiver,7,2,Indoors,Synthetic,,Indoor,Pass,38,WR,WR,7
+39656,39656-2,39656-2-38,Knee,Synthetic,Wide Receiver,7,2,Indoors,Synthetic,-999.0,Indoor,Pass,38,WR,WR,7
 46587,46587-2,46587-2-13,Knee,Synthetic,Wide Receiver,8,2,Closed,Synthetic,68.0,Cloudy,Kickoff,13,WR,WR,42
 46119,46119-3,46119-3-16,Knee,Natural,Linebacker,15,3,Open,Natural,89.0,Sunny,Punt,16,OLB,LB,7
 38364,38364-5,38364-5-23,Foot,Synthetic,Wide Receiver,29,5,,Synthetic,76.0,Cloudy,Kickoff,23,WR,WR,42
-45966,45966-4,45966-4-27,Knee,Synthetic,Running Back,21,4,Indoors,Synthetic,,Indoor,Rush,27,RB,RB,42
+45966,45966-4,45966-4-27,Knee,Synthetic,Running Back,21,4,Indoors,Synthetic,-999.0,Indoor,Rush,27,RB,RB,42
 35611,35611-7,35611-7-42,Ankle,Synthetic,Safety,50,7,Indoors,Synthetic,68.0,Indoor,Pass,42,FS,DB,7
 44434,44434-10,44434-10-31,Foot,Natural,Defensive Lineman,71,10,Open,Natural,38.0,Cold,Pass,31,DE,DL,42
 44489,44489-11,44489-11-32,Ankle,Synthetic,Linebacker,78,11,Open,Synthetic,46.0,Partly Cloudy,Pass,32,OLB,LB,42
 44511,44511-5,44511-5-41,Ankle,Synthetic,Linebacker,43,5,,Synthetic,75.0,Partly Cloudy,Pass,41,MLB,LB,28
-43826,43826-7,43826-7-12,Knee,Synthetic,Running Back,64,7,Closed,Synthetic,,,Pass,12,RB,RB,7
-43518,43518-6,43518-6-25,Ankle,Synthetic,Cornerback,36,6,Indoors,Synthetic,,Indoor,Pass,25,CB,DB,42
+43826,43826-7,43826-7-12,Knee,Synthetic,Running Back,64,7,Closed,Synthetic,-999.0,,Pass,12,RB,RB,7
+43518,43518-6,43518-6-25,Ankle,Synthetic,Cornerback,36,6,Indoors,Synthetic,-999.0,Indoor,Pass,25,CB,DB,42
 34347,34347-5,34347-5-9,Knee,Natural,Wide Receiver,39,5,Open,Natural,48.0,Partly Cloudy,Kickoff,9,WR,WR,7
 41943,41943-1,41943-1-12,Ankle,Natural,Linebacker,1,1,Open,Natural,70.0,Sunny,Rush,12,OLB,LB,7
 41209,41209-9,41209-9-9,Ankle,Synthetic,Linebacker,63,9,Open,Synthetic,42.0,Cloudy,Rush,9,OLB,LB,7
@@ -35,7 +35,7 @@ PlayerKey,GameID,PlayKey,BodyPart,Surface,RosterPosition,PlayerDay,PlayerGame,St
 39956,39956-2,39956-2-14,Knee,Natural,Safety,8,2,Open,Natural,68.0,Cloudy,Pass,14,FS,DB,7
 45950,45950-8,45950-8-18,Ankle,Natural,Safety,71,8,Open,Natural,38.0,Cold,Punt,18,FS,DB,1
 43540,43540-3,43540-3-14,Ankle,Natural,Linebacker,15,3,Open,Natural,89.0,Sunny,Rush,14,MLB,LB,1
-44440,44440-6,44440-6-18,Ankle,Synthetic,Cornerback,-34,6,Indoors,Synthetic,,Indoor,Pass,18,CB,DB,1
+44440,44440-6,44440-6-18,Ankle,Synthetic,Cornerback,-34,6,Indoors,Synthetic,-999.0,Indoor,Pass,18,CB,DB,1
 44449,44449-6,44449-6-13,Knee,Natural,Wide Receiver,42,6,Open,Natural,52.0,Rainy,Pass,13,WR,WR,1
 42406,42406-6,42406-6-13,Ankle,Synthetic,Offensive Lineman,43,6,,Synthetic,75.0,Partly Cloudy,Pass,13,C,OL,1
 42637,42637-3,42637-3-6,Knee,Natural,Linebacker,12,3,Open,Natural,33.0,Clear,Punt,6,OLB,LB,42
@@ -49,7 +49,7 @@ PlayerKey,GameID,PlayKey,BodyPart,Surface,RosterPosition,PlayerDay,PlayerGame,St
 46038,46038-30,46038-30-58,Ankle,Natural,Safety,463,30,Open,Natural,45.0,Clear,Pass,58,FS,DB,7
 41113,41113-15,41113-15-63,Ankle,Natural,Linebacker,421,15,Open,Natural,53.0,Sunny,Rush,63,OLB,LB,1
 47235,47235-7,47235-7-55,Foot,Synthetic,Cornerback,50,7,Open,Synthetic,55.0,Rainy,Punt Not Returned,55,CB,DB,28
-47382,47382-3,47382-3-34,Ankle,Synthetic,Linebacker,18,3,Closed,Synthetic,,,Rush,34,LB,LB,1
+47382,47382-3,47382-3-34,Ankle,Synthetic,Linebacker,18,3,Closed,Synthetic,-999.0,,Rush,34,LB,LB,1
 44421,44421-12,44421-12-41,Knee,Natural,Defensive Lineman,365,12,Open,Natural,61.0,Rainy,Pass,41,DE,DL,7
 42348,42348-23,42348-23-53,Knee,Synthetic,Linebacker,406,23,Open,Synthetic,46.0,Cloudy,Rush,53,OLB,LB,28
 42398,42398-15,42398-15-33,Knee,Synthetic,Wide Receiver,396,15,,Synthetic,70.0,Rainy,Punt Returned,33,WR,WR,42

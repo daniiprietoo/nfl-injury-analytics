@@ -1,5 +1,5 @@
 from sqlalchemy import create_engine
-from db_models import Base, Dataset, Preprocessor, PreprocessorStrategy, Algorithm, AlgorithmParameters, Model, ModelAccuracy, Visualization
+from .db_models import Base, Dataset, Preprocessor, PreprocessorStrategy, Algorithm, AlgorithmParameters, Model, ModelAccuracy, Visualization
 from sqlalchemy.orm import sessionmaker
 from typing import Dict
 
