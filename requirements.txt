@@ -1,7 +1,7 @@
 # Data processing and analysis
+pandas
 numpy
 scikit-learn
-nfl_data_py
 
 
 # Visualization
